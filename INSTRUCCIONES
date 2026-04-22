@@ -1,0 +1,30 @@
+# E1_DEEP_LEARNING_701D_ValentinaCisterna_LucasContreras
+Primera evaluación deep learning
+
+## 🚀 Ejecución del proyecto
+
+### 1. Abrir el notebook
+Abrir el archivo `.ipynb` en Google Colab.
+
+### 2. Verificar entorno
+Asegurarse de tener instaladas las siguientes librerías:
+
+- TensorFlow  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+
+### 3. Ejecutar el código
+Ejecutar todas las celdas en orden (Ejecutar todo).
+
+### 4. Entrenamiento
+Esperar a que finalicen los entrenamientos (puede tardar algunos minutos).
+
+### 5. Resultados
+Revisar:
+- Tabla comparativa
+- Gráficos generados
+
+El mejor modelo se determina según métricas como accuracy y F1-score.
